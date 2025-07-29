@@ -18,3 +18,4 @@ Here is a demo with the Elite Robot ec12, and using the framework it can work wi
 
 
 <img src="resources/eccclip3.gif" width="400">
+The main libraries are the transform_lib, visualize_lib, and pid_controllerm. An adaptation of these libraries is included in src for the ec12 robot. 
